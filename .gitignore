@@ -1,0 +1,3 @@
+**/*.credentials.env
+**/.DS_Store
+**/*.pem
